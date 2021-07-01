@@ -1,4 +1,4 @@
-https://www.mikeperham.com/2021/04/20/a-tour-of-the-sidekiq-api/o
+https://www.mikeperham.com/2021/04/20/a-tour-of-the-sidekiq-api/
 
 # Delete retry set:
 
