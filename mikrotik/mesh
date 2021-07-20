@@ -1,0 +1,8 @@
+# General Troubleshooting
+check mesh fdb
+```
+/interface mesh fdb
+```
+
+Ensure wds is on all routers
+
