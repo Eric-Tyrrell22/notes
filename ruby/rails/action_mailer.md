@@ -7,9 +7,9 @@ ApplicationMailer.with(locale: :es).application_mail(user)
 `
 
     ApplicationMailer < ActionMailer::Base
-      \# Might be able to pass a block to set_locale
-      \# and call I19n.with_locale(email, &block)
-      \# not 100% sure though
+      # Might be able to pass a block to set_locale
+      # and call I19n.with_locale(email, &block)
+      # not 100% sure though
       before_action :set_locale
     
       def application_mail(email)
